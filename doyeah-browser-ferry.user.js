@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         DoYeah · 野渡彼岸（✌️ 常驻 + 半透明说明条）
+// @name         DoYeah · 野渡（✌️当前页面轮渡到任意浏览器）
 // @name:en      DoYeah · Wild Browser Ferry
 // @namespace    https://github.com/JCZGEO/doyeah-browser-ferry
-// @version      2026.05.16.5
+// @version      2026.05.16.6
 // @description  右侧常驻 ✌️ 手势图标，鼠标靠近时从左侧滑出 50% 透明说明条，点击将当前 URL 发送到本机浏览器渡口服务，由本机决定用哪个浏览器打开（默认 Comet，自行可改）。
 // @description:en  Always-visible ✌️ DoYeah logo on the right edge. On hover, a semi-transparent label slides out. On click, the current URL is sent to a local browser ferry service, which decides which browser to open (Comet by default, configurable by the user).
 // @author       DY
